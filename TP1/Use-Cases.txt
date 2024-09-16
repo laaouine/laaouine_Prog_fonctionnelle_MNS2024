@@ -1,0 +1,12 @@
+TP01 Alex, programation fonctionnelle
+
+
+Use case points.
+
+1 - Un stock pour chaque fruits.
+2 - fonction de Vente, à la fin mettre à jour le stock
+3 - fonction ajouter un nv fruit au stock
+4 - 
+5 - Supprimer un produit, elle ne doit plus être mis à disposition pour les clients
+6 - En tant que vendeur de fruits, je souhaite pouvoir vérifier qu'un fruit est proposé à la vente et disponible en quantité suffisante dans mon stock avant de le vendre afin de m'assurer que je pourrai honorer ma vente.
+7 - n tant que vendeur, je souhaite que des messages de log dans le terminal soient affichés à chaque action effectuée.
